@@ -1,0 +1,66 @@
+[
+  {
+    "Year": {
+      "2022/2023": {
+        "Quarter": {
+          "1": {
+            "LARGE": 14,
+            "MEDIUM": 36,
+            "NO_SIZE": 44,
+            "SMALL": 50393
+          },
+          "2": {
+            "LARGE": 10,
+            "MEDIUM": 27,
+            "NO_SIZE": 102,
+            "SMALL": 46390
+          },
+          "3": {
+            "LARGE": 31,
+            "MEDIUM": 142,
+            "NO_SIZE": 796,
+            "SMALL": 68441
+          },
+          "4": {
+            "LARGE": 31,
+            "MEDIUM": 137,
+            "NO_SIZE": 975,
+            "SMALL": 62216
+          }
+        }
+      }
+    }
+  },
+  {
+    "Year": {
+      "2023/2024": {
+        "Quarter": {
+          "1": {
+            "LARGE": 11,
+            "MEDIUM": 15,
+            "NO_SIZE": 592,
+            "SMALL": 46246
+          },
+          "2": {
+            "LARGE": 14,
+            "MEDIUM": 25,
+            "NO_SIZE": 842,
+            "SMALL": 41647
+          },
+          "3": {
+            "LARGE": 16,
+            "MEDIUM": 139,
+            "NO_SIZE": 3930,
+            "SMALL": 64119
+          },
+          "4": {
+            "LARGE": 6,
+            "MEDIUM": 3,
+            "NO_SIZE": 473,
+            "SMALL": 15943
+          }
+        }
+      }
+    }
+  }
+]
